@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm studying programming
+I'm studying programming gg.
 
 
 # 💻 Tech Stack:
